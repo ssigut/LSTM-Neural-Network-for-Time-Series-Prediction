@@ -8,4 +8,5 @@ __version__ = "2.0.0"
 __license__ = "MIT"
 
 import warnings
-warnings.filterwarnings("ignore") # ignore messy numpy warnings
+
+warnings.filterwarnings("ignore")  # ignore messy numpy warnings
